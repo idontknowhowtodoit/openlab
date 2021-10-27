@@ -2,6 +2,7 @@
 #define FUNCS_H
 
 void foo(void);
-void koo(void);
+void koo(int num);
+
 
 #endif
